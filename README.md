@@ -1,6 +1,3 @@
-AI2 - Tools of Artificial Intelligence
-====
-University of Southern Denmark
-
-LUDO GUI
-========
+#Ludo AI
+Primary practical of course "Tools of Artificial Intelligence".
+Ludo game simulation source: ``https://gitlab.com/niive12/ludo-gui``
